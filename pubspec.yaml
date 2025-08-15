@@ -1,0 +1,28 @@
+name: mood
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1 # Bu, sizin mevcut SDK sürümünüz.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  lottie: ^3.1.0
+  dotlottie_loader: ^0.0.4
+  intl: ^0.18.1
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# Flutter paketine özel ayarlar
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/emojis/

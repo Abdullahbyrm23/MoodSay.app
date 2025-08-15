@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626053615770",
+    "project_id": "moodsay",
+    "storage_bucket": "moodsay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626053615770:android:d22579ed57ed28464d8f23",
+        "android_client_info": {
+          "package_name": "com.near.mood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqfrapePkzBsxumwQAsS_awydjMqFMDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
