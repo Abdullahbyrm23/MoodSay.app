@@ -1,6 +1,8 @@
-# mood
+# moodsay
 
 A new Flutter project.
+
+This app is a mood indicator. Users click on the emoji mood they're currently feeling and receive a quote of the day. Each click brings up a different quote. Plus, they can also write a diary specifically for that day and their current mood. Goodbye, hoping to see you in good spirits.
 
 ## Getting Started
 
